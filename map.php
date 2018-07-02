@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: My Awesome Plugin
- * Description: Sample plugin for Wordpress. It shows you how a Wordpress plugin works. It contains CRUD process and option/setting form in admin page, and shortcode.
+ * Description: Sample plugin for Wordpress. It shows you how a Wordpress plugin works. It contains CRUD process, option/setting form, and shortcode implementation.
  * Version: 1.0
  * Author: Andi Prianto
  * Author URI: https://github.com/prianto
